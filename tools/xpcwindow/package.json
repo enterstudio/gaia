@@ -20,7 +20,7 @@
     "mocha"
   ],
   "dependencies": {
-    "mocha": "~1.0"
+    "mocha": "~10.1.0"
   },
   "devDependencies": {
     "expect.js": "~0.1"
